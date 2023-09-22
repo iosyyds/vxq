@@ -114,13 +114,13 @@ body {
 }
 
 #qr-code2 img {
-	width: 128px; /* 设置二维码宽度 */
-	height: 128px; /* 设置二维码高度 */
+	width: 150px; /* 设置二维码宽度 */
+	height: 150px; /* 设置二维码高度 */
 }
 
 #qr-code3 img {
-	width: 128px; /* 设置二维码宽度 */
-	height: 128px; /* 设置二维码高度 */
+	width: 150px; /* 设置二维码宽度 */
+	height: 150px; /* 设置二维码高度 */
 }
 
 .footer {
