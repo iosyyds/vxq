@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 	var qrCode3Image = new Image();
 	qrCode3Image.src = new QRCode(document.createElement("div"), {
-		text: "https://qm.qq.com/q/c2yIcuV8AM",
+		text: "https://qm.qq.com/q/5H7ATW24Vy",
 		width: 300,
 		height: 300,
 		correctLevel: QRCode.CorrectLevel.H,
